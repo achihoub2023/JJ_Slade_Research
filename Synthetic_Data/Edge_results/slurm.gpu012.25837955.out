@@ -1,0 +1,54 @@
+Epoch: 01, Loss: 0.7267, Train: 50.60%, Test: 49.20%
+Epoch: 02, Loss: 0.6960, Train: 53.65%, Test: 53.25%
+Epoch: 03, Loss: 0.6705, Train: 57.74%, Test: 55.20%
+Epoch: 04, Loss: 0.6712, Train: 60.05%, Test: 59.35%
+Epoch: 05, Loss: 0.6865, Train: 61.74%, Test: 58.95%
+Epoch: 06, Loss: 0.6519, Train: 63.89%, Test: 61.90%
+Epoch: 07, Loss: 0.6279, Train: 64.56%, Test: 63.05%
+Epoch: 08, Loss: 0.6302, Train: 66.04%, Test: 64.05%
+Epoch: 09, Loss: 0.6551, Train: 67.38%, Test: 64.45%
+Epoch: 10, Loss: 0.5920, Train: 68.79%, Test: 67.00%
+Epoch: 11, Loss: 0.6411, Train: 69.24%, Test: 67.40%
+Epoch: 12, Loss: 0.5947, Train: 70.53%, Test: 68.25%
+Epoch: 13, Loss: 0.6184, Train: 71.01%, Test: 68.45%
+Epoch: 14, Loss: 0.5776, Train: 72.00%, Test: 68.35%
+Epoch: 15, Loss: 0.6142, Train: 72.45%, Test: 68.80%
+Epoch: 16, Loss: 0.5730, Train: 73.38%, Test: 69.15%
+Epoch: 17, Loss: 0.5386, Train: 73.69%, Test: 69.60%
+Epoch: 18, Loss: 0.6713, Train: 74.64%, Test: 70.35%
+Epoch: 19, Loss: 0.6445, Train: 74.82%, Test: 70.10%
+Epoch: 20, Loss: 0.5564, Train: 75.26%, Test: 69.30%
+Epoch: 21, Loss: 0.5291, Train: 76.39%, Test: 70.60%
+Epoch: 22, Loss: 0.6180, Train: 76.91%, Test: 69.60%
+Epoch: 23, Loss: 0.5416, Train: 77.19%, Test: 70.35%
+Epoch: 24, Loss: 0.6300, Train: 77.04%, Test: 70.75%
+Epoch: 25, Loss: 0.5227, Train: 77.93%, Test: 70.90%
+Epoch: 26, Loss: 0.5136, Train: 78.19%, Test: 71.55%
+Epoch: 27, Loss: 0.6099, Train: 78.06%, Test: 71.05%
+Epoch: 28, Loss: 0.4989, Train: 78.98%, Test: 70.95%
+Epoch: 29, Loss: 0.5363, Train: 79.09%, Test: 71.60%
+Epoch: 30, Loss: 0.6251, Train: 79.56%, Test: 71.80%
+Epoch: 31, Loss: 0.5932, Train: 79.59%, Test: 71.95%
+Epoch: 32, Loss: 0.5510, Train: 80.33%, Test: 71.60%
+Epoch: 33, Loss: 0.5015, Train: 80.51%, Test: 72.00%
+Epoch: 34, Loss: 0.5865, Train: 80.43%, Test: 70.50%
+Epoch: 35, Loss: 0.5343, Train: 81.22%, Test: 72.30%
+Epoch: 36, Loss: 0.5087, Train: 80.70%, Test: 72.15%
+Epoch: 37, Loss: 0.5275, Train: 81.45%, Test: 72.15%
+Epoch: 38, Loss: 0.5457, Train: 81.53%, Test: 72.55%
+Epoch: 39, Loss: 0.5254, Train: 81.79%, Test: 72.65%
+Epoch: 40, Loss: 0.5330, Train: 81.55%, Test: 71.70%
+Epoch: 41, Loss: 0.6104, Train: 82.30%, Test: 72.15%
+Epoch: 42, Loss: 0.4579, Train: 82.58%, Test: 72.35%
+Epoch: 43, Loss: 0.4708, Train: 82.29%, Test: 72.40%
+Epoch: 44, Loss: 0.4543, Train: 82.78%, Test: 73.10%
+Epoch: 45, Loss: 0.6442, Train: 82.93%, Test: 72.70%
+Epoch: 46, Loss: 0.5047, Train: 83.11%, Test: 72.90%
+Epoch: 47, Loss: 0.5772, Train: 83.00%, Test: 72.30%
+Epoch: 48, Loss: 0.4349, Train: 83.54%, Test: 72.40%
+Epoch: 49, Loss: 0.4989, Train: 83.45%, Test: 72.60%
+Epoch: 50, Loss: 0.5683, Train: 83.54%, Test: 72.65%
+========= Non Graph Based ==========
+========== Non-Graph Based Methods ==========
+Accuracy for QDA is 0.4885
+Accuracy for GNB is 0.4885
